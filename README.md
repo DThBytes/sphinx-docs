@@ -1,4 +1,4 @@
-﻿# Proyecto nuevo con sphinx
+﻿# Nuevo proyecto sphinx
 
 https://www.sphinx-doc.org/en/master/tutorial/getting-started.html
 
